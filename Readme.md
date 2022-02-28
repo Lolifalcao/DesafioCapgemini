@@ -2,7 +2,7 @@
 
 Este desafio foi respondido utilizando a linguagem JavaScript.
 
-Para roda o algoritmo siga os passo abaixo:
+Para rodar o algoritmo siga os passo abaixo:
 
 1. No terminal digite o comando `node nome-do-arquivo.js`
 2. Para ver resultados diferentes altere o valor da primeira variável de cada questão
